@@ -89,17 +89,3 @@ alias ll="ls -l"
 alias la="ls -la"
 alias gpsom="git push origin master"
 alias gplom="git pull origin master"
-alias ga="git add"
-alias gc="git commit -m"
-alias gt="git status"
-
-
-
-
-
-
-
-
-
-
-
