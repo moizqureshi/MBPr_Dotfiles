@@ -1,10 +1,16 @@
-# Moiz's MBPr_Dotfiles
-## Terminal & Shell 
-Terminal: iTerm
-Shell: zsh w/ oh-my-zsh
+#Moiz's MBPr_Dotfiles
+##Terminal 
+*Terminal:* iTerm (Build 3.0.12 )
+*Theme:* Dark
+*Colors:* iTermColors.itermcolors (in this repo)
+*Font:* Fira Mono (Powerline Fonts) - 12pt
+
+##Shell: zsh w/ oh-my-zsh
 
 
-## VIM Plugins
+##VIM
+###
+###Plugins 
 * delimitMate
 * vim-airline
 * vim-colors-solarized
