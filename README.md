@@ -12,7 +12,7 @@
 
 ##VIM
 ###
-###Plugins 
+###Plugins (using Vundle) 
 * delimitMate
 * vim-airline
 * vim-colors-solarized
