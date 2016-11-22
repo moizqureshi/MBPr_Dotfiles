@@ -1,16 +1,19 @@
-" ~/.vimrc
-" Moiz Qureshi
-" 1/30/16
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'Raimondi/delimitMate'
+Plugin 'vim-airline/vim-airline'
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'tomtom/tlib_vim'
+Plugin 'garbas/vim-snipmate'
+Plugin 'honza/vim-snippets'
+Plugin 'altercation/vim-colors-solarized'
 
+call vundle#end()
+filetype plugin indent on
 
-" Execute Pathogen
-execute pathogen#infect()
-
-
-" **************************************
-" * VARIABLES
-" **************************************
-set nocompatible		" get rid of strict vi compatibility!
+" Variables
 set nu				" line numbering on
 set autoindent			" autoindent on
 set noerrorbells		" bye bye bells :)
