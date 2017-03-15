@@ -6,7 +6,7 @@
 * *Font:* Fira Mono (Powerline Fonts) - 12pt
 
 ### Download Links:
-https://www.iterm2.com/downloads.html - automatic!
+[iTerm][iterm_link]
 
 ## Shell
 * *Shell:* zsh
@@ -14,9 +14,16 @@ https://www.iterm2.com/downloads.html - automatic!
  ..+ *ZSH Theme*: Agnoster
 
 ## VIM
-###
 ### Plugins (using Vundle)
 * delimitMate
 * vim-airline
 * vim-colors-solarized
 * vim-snippets
+
+
+[oh-my-zsh][omyzsh_link]
+
+
+[iterm_link]: https://www.iterm2.com/downloads.html 
+[omyzsh_link]: https://github.com/robbyrussell/oh-my-zsh
+
