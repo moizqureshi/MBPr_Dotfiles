@@ -6,8 +6,8 @@
 * *Font:* Fira Mono (Powerline Fonts) - 12pt
 
 #### Download Links:
-[iTerm][iterm_link]
-[Powerline Fonts][powerline_link]
+* [iTerm][iterm_link]
+* [Powerline Fonts][powerline_link]
 
 ## Shell
 * *Shell:* zsh
@@ -41,10 +41,10 @@ For the Agnoster theme to work properly, you will need to use a Powerline font!
 * vim-snippets
 
 #### Download Links:
-[delimitMate][delimitMate_link]
-[vim-airline][vim-airline_link]
-[vim-colors-solarized][vim-colors-solarized_link]
-[vim-snippets][vim-snippets_link]
+* [delimitMate][delimitMate_link]
+* [vim-airline][vim-airline_link]
+* [vim-colors-solarized][vim-colors-solarized_link]
+* [vim-snippets][vim-snippets_link]
 
 
 [iterm_link]: https://www.iterm2.com/downloads.html 
