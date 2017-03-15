@@ -1,18 +1,18 @@
 # Moiz's MBPr_Dotfiles
 ## Terminal
-* Terminal: *iTerm (Build 3.0.12 )*
-* Theme: *Dark*
-* Colors: *iTermColors.itermcolors (in this repo)*
-* Font: *Fira Mono (Powerline Fonts) - 12pt*
+* **Terminal:** *iTerm (Build 3.0.12 )*
+* **Theme:** *Dark*
+* **Colors:** *iTermColors.itermcolors (in this repo)*
+* **Font:** *Fira Mono (Powerline Fonts) - 12pt*
 
 #### Download Links:
 * [iTerm][iterm_link]
 * [Powerline Fonts][powerline_link]
 
 ## Shell
-* Shell: *zsh*
-* Plugins: *oh-my-zsh*
-  + ZSH Theme: *Agnoster*
+* **Shell:** *zsh*
+* **Plugins:** *oh-my-zsh*
+  + **ZSH Theme:** *Agnoster*
  
 ### Notes
 For the Agnoster theme to work properly, you will need to use a Powerline font!
