@@ -5,7 +5,7 @@
 * *Colors:* iTermColors.itermcolors (in this repo)
 * *Font:* Fira Mono (Powerline Fonts) - 12pt
 
-### Download Links:
+#### Download Links:
 [iTerm][iterm_link]
 
 ## Shell
