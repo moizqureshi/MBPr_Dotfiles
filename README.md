@@ -5,11 +5,13 @@
 * *Colors:* iTermColors.itermcolors (in this repo)
 * *Font:* Fira Mono (Powerline Fonts) - 12pt
 
+### Download Links:
+https://www.iterm2.com/downloads.html - automatic!
+
 ## Shell
 * *Shell:* zsh
 * *Plugins:* oh-my-zsh
-..+ ZSH Theme: Agnoster
-
+ ..+ *ZSH Theme*: Agnoster
 
 ## VIM
 ###
