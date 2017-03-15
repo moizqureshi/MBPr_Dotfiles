@@ -8,7 +8,7 @@
 ## Shell
 * *Shell:* zsh
 * *Plugins:* oh-my-zsh
-* ..+ZSH Theme: Agnoster
+..+ ZSH Theme: Agnoster
 
 
 ## VIM
