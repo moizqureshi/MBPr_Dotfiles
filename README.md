@@ -12,13 +12,13 @@
 ## Shell
 * *Shell:* zsh
 * *Plugins:* oh-my-zsh
- ..+ *ZSH Theme*: Agnoster
+ * *ZSH Theme*: Agnoster
  
 ### Notes
 For the Agnoster theme to work properly, you will need to use a Powerline font!
  
 #### Download Links:
-[oh-my-zsh][omyzsh_link]
+* [oh-my-zsh][omyzsh_link]
 
 ## Atom
 ### Packages
