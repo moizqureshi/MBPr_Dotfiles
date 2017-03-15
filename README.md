@@ -7,13 +7,13 @@
 
 ## Shell
 * *Shell:* zsh
-* *Plugin:* oh-my-zsh
-
+* *Plugins:* oh-my-zsh
+* ..+ZSH Theme: Agnoster
 
 
 ## VIM
 ###
-### Plugins (using Vundle) 
+### Plugins (using Vundle)
 * delimitMate
 * vim-airline
 * vim-colors-solarized
